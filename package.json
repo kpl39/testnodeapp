@@ -1,0 +1,13 @@
+{
+  "name": "Elastic-Beanstalk-Sample-App",
+  "version": "0.0.1",
+  "private": true,
+  "main": "server.js",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "express": "^4.14.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
